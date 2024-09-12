@@ -61,12 +61,12 @@ chunkoverlap = st.sidebar.slider("A value between 0 and 200",value=50,min_value=
 
 
 # Creating chunks 
-# st.sidebar.subheader('Create chunks from uploaded file')
-# if st.sidebar.button('Creat chucks'):
-#     if docs is not None and chunksize != 0 and chunkoverlap !=0:
-#         text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunksize, chunk_overlap=chunkoverlap)
-#         documents = text_splitter.split_documents(docs)
-#         st.sidebar.success("'Chunks created succesfully'", icon="✅")
+st.sidebar.subheader('Create chunks from uploaded file')
+if st.sidebar.button('Creat chucks'):
+    if docs is not None and chunksize != 0 and chunkoverlap !=0:
+         text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunksize, chunk_overlap=chunkoverlap)
+         documents = text_splitter.split_documents(docs)
+         st.sidebar.success("'Chunks created succesfully'", icon="✅")
 
 
 # Creating embedding database from the chucks 
