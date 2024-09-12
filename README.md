@@ -38,3 +38,10 @@ This web app integrates **Retrieval-Augmented Generation (RAG)** with local **La
 ### Usage
 To get started, clone the repository and follow the instructions in the README to set up the environment and start the app.
 ---
+#### References: 
+These Resoreces helped me complete this project 
+1. What is RAG? (Retrieval Augmented Generation) on Clarifai Computer Vision By Ian Kelk
+https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation
+
+2. Krish Naik's Updated langchain Playlist: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=28fKxnQr0dvDp0HJ&amp;list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
