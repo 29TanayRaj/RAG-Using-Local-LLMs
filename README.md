@@ -43,5 +43,5 @@ These Resoreces helped me complete this project
 1. What is RAG? (Retrieval Augmented Generation) on Clarifai Computer Vision By Ian Kelk
 https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation
 
-2. Krish Naik's Updated langchain Playlist: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=28fKxnQr0dvDp0HJ&amp;list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+2. Krish Naik's Updated langchain Playlist:https://youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&feature=shared
 
