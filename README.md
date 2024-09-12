@@ -2,7 +2,7 @@ Here’s a refined GitHub description for your project in proper markdown format
 
 ---
 
-# RAG+LLM Web App 📚🔍🧠
+# RAG+LLM Web App based chatbot 📚🔍🧠
 
 This web app integrates **Retrieval-Augmented Generation (RAG)** with local **Large Language Models (LLMs)**, enabling accurate, context-aware responses from PDF documents. The app uses **Streamlit** for the front end, **Ollama** for local LLMs, and **FAISS** for fast, efficient retrieval of information.
 
