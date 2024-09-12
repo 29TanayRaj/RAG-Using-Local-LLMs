@@ -1,6 +1,4 @@
-Here’s a refined GitHub description for your project in proper markdown format:
 
----
 
 # RAG+LLM Web App based chatbot 📚🔍🧠
 
