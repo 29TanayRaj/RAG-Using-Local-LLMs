@@ -1,5 +1,3 @@
-
-
 # RAG+LLM Web App based chatbot 📚🔍🧠
 
 This web app integrates **Retrieval-Augmented Generation (RAG)** with local **Large Language Models (LLMs)**, enabling accurate, context-aware responses from PDF documents. The app uses **Streamlit** for the front end, **Ollama** for local LLMs, and **FAISS** for fast, efficient retrieval of information.
@@ -35,11 +33,19 @@ This web app integrates **Retrieval-Augmented Generation (RAG)** with local **La
 - **Ollama** for local LLM models.
 - **FAISS** for embedding-based document retrieval.
 
+### How to use this app in your local system.
+
+
 ### Usage
-To get started, clone the repository and follow the instructions in the README to set up the environment and start the app.
+To get started, clone the repository and follow the instructions below to set up the environment and start the app.
+
+- **Setup a Enviroment**: Use python 3.10.0 or above to setup a virtual environment in python, one can use virtualenv for the same.
+- **Installing the Libraries**: Use the requirements.txt file to install the required python dependencies.
+- **Ollama**: Intall Ollama, and download models **Llama 3.1**, **Mistral**, **Gemma 2**, and **LLaVA** for LLMS and **nomic-embed-text** for embeddings. One need not to install 
 ---
 #### References: 
-These Resoreces helped me complete this project 
+These Resoreces helped me complete this project:
+
 1. What is RAG? (Retrieval Augmented Generation) on Clarifai Computer Vision By Ian Kelk
 https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation
 
