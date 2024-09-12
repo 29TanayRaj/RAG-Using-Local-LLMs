@@ -40,11 +40,11 @@ To get started, clone the repository and follow the instructions below to set up
 
 - **Setup a Enviroment**: Use python 3.10.0 or above to setup a virtual environment in python, one can use virtualenv for the same.
 - **Installing the Libraries**: Use the requirements.txt file to install the required python dependencies.
-- **Ollama**: Intall Ollama, and download models **Llama 3.1**, **Mistral**, **Gemma 2**, and **LLaVA** for LLMS and **nomic-embed-text** for embeddings. Note: One does not need to install all the models just install a single LLM -(like llama3.1) but do install the **nomic-embed-text** for embeddings. also make the necessary changes in the code.
+- **Ollama**: Install Ollama, and download models **Llama 3.1**, **Mistral**, **Gemma 2**, and **LLaVA** for LLMS and **nomic-embed-text** for embeddings. Note: One does not need to install all the models just install a single LLM -(like llama3.1) but do install the **nomic-embed-text** for embeddings. also make the necessary changes in the code.
 - **Running the APP**: In the ternmial open the folder in which the file **app.py** is stored and type the command: streamlit run app.py
 ---
 #### References: 
-These Resoreces helped me complete this project:
+These resources helped me complete this project:
 
 1. What is RAG? (Retrieval Augmented Generation) on Clarifai Computer Vision By Ian Kelk
 https://www.clarifai.com/blog/what-is-rag-retrieval-augmented-generation
